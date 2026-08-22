@@ -1,7 +1,5 @@
 # inverted-pendulum-control
 
-Giovanni Francesco Comune and Gianluca Pandolfi's bachelor's thesis project
-
 ## Installation
 
 Install with
